@@ -21,3 +21,6 @@ A script that creates a directory named my_first_directory
 
 **7-movethatfile**
 A script that moves a file to another directory
+
+**8-firstdelete**
+A script that deletes a file
