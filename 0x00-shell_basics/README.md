@@ -9,3 +9,6 @@ A script that changes working directory to home directory
 
 ** 3-listfiles**
 A script that displays content of working directory in long format
+
+**4-listmorefiles**
+A script that prints all content plus hidden of working directory in long format
