@@ -30,3 +30,6 @@ A script that deletes a directory /tmp/my_first_directory
 
 **10-back**
 A script that change to previous directory
+
+**11-lists**
+A script that print all files in working directory, parent of working directory and /boot in long format
