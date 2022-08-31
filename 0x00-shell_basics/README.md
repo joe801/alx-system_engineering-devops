@@ -18,3 +18,6 @@ A script that prints all contents plus hiddenin long format with user and group 
 
 **6-firstdirectory**
 A script that creates a directory named my_first_directory 
+
+**7-movethatfile**
+A script that moves a file to another directory
