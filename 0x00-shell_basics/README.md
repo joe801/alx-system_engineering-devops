@@ -39,3 +39,6 @@ A script that prints the file type of /tmp/iamafile
 
 **13-symbolic_link**
 A script to create a symbolic link to /bin/ls path
+
+**14-copy_html**
+A script that copies and html extebsion files in working directory to parent of current directory
