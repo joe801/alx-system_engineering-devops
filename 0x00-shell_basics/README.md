@@ -27,3 +27,6 @@ A script that deletes a file /tmp/...betty
 
 **9-firstdirdeletion**
 A script that deletes a directory /tmp/my_first_directory
+
+**10-back**
+A script that change to previous directory
