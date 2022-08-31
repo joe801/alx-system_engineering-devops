@@ -17,4 +17,4 @@ A script that prints all content plus hidden of working directory in long format
 A script that prints all contents plus hiddenin long format with user and group id displayed numerically
 
 **6-firstdirectory**
-A script that creates a directory named my_first_directory
+A script that creates a directory named my_first_directory 
