@@ -36,3 +36,6 @@ A script that print all files in working directory, parent of working directory 
 
 **12-file_type**
 A script that prints the file type of /tmp/iamafile
+
+**13-symbolic_link**
+A script to create a symbolic link to /bin/ls path
