@@ -12,3 +12,6 @@ A script that displays content of working directory in long format
 
 **4-listmorefiles**
 A script that prints all content plus hidden of working directory in long format
+
+**5-listfilesdigitonly**
+A script that prints all contents plus hiddenin long format with user and group id displayed numerically
